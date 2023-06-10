@@ -8,6 +8,7 @@ import mysql from "mysql2/promise";
 dotenv.config();
 // environment variables
 const expressPort = process.env.PORT || 5001;
+gggggg
 
 // redis
 const redisUsername = process.env.REDIS_USERNAME || "";
